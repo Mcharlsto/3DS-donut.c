@@ -1,7 +1,9 @@
 # 3DS-donut.c
 A Nintendo 3DS port of the rotating donut code.
 
-![code demo](https://raw.githubusercontent.com/Mcharlsto/3DS-donut.c/main/demo.gif)
+Download - [donut.3dsx](https://raw.githubusercontent.com/Mcharlsto/3DS-donut.c/main/donut.3dsx)
+
+<img src="https://raw.githubusercontent.com/Mcharlsto/3DS-donut.c/main/demo.gif" width="30%" />
 
 # Acknowledgements
 - Original code by a1k0n [https://www.a1k0n.net/2006/09/15/obfuscated-c-donut.html]
